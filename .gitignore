@@ -2,7 +2,7 @@
 node_modules/
 
 # Ignore package.json file
-package.json
+package-lock.json
 
 # Ignore log files
 *.log
